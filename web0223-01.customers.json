@@ -1,0 +1,4 @@
+{"_id":{"$oid":"6094a81c176a1d2f8c93af52"},"name":"西施","age":23,"gender":"女"}
+{"_id":{"$oid":"6094a81c176a1d2f8c93af51"},"name":"杨玉环","age":23,"gender":"女"}
+{"_id":{"$oid":"6094a81c176a1d2f8c93af50"},"name":"王昭君","age":22,"gender":"女"}
+{"_id":{"$oid":"6094a81c176a1d2f8c93af4f"},"name":"赵飞燕","age":23,"gender":"女"}
